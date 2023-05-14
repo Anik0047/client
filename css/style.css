@@ -1,0 +1,278 @@
+.background-img {
+  background:rgba(147, 147, 151, 0.603) url(../cover2.webp);
+  font-family: "EB Garamond", serif;
+  height: 100vh;
+  background-blend-mode: darken;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-transform: uppercase;
+  text-align: center;
+  color: #ffffff;
+}
+
+.background-img h1{
+font-style: normal;
+font-weight: 600;
+font-size: 66px;
+line-height: 20px;
+padding-top: 177px;
+padding-bottom: 38px;
+}
+
+.background-img p{
+    font-weight: 400;
+font-size: 24px;
+line-height: 20px;
+padding-bottom: 58px;
+}
+
+.background-img button{
+    font-family: 'Poppins';
+    padding: 20px 36px;
+    background-color: #ffffff;
+    border-radius: 1000px;
+}
+
+
+.box {
+  font-family: "EB Garamond", serif;
+  margin: 140px;
+}
+
+.title {
+  font-size: 55px;
+  font-weight: 600;
+  font-style: normal;
+  line-height: 60px;
+  color: #002b5b;
+  font-family: "EB Garamond", serif;
+}
+.view {
+  margin-top: 3px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  color: #002b5b;
+}
+
+.icon {
+  margin-left: 10px;
+}
+
+.box-2 {
+  margin-bottom: 102px;
+}
+
+.box-3 {
+  width: 645px;
+  height: 347px;
+  background: #e2fafd;
+  border-radius: 20px;
+  margin-right: 20px;
+}
+
+.box-3 button {
+  background-color: #002b5b;
+  padding: 16px 24px;
+  border-radius: 1000px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  color: #ffffff;
+  font-family: "Poppins";
+}
+
+.title-2 {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 43px;
+  color: #002b5b;
+}
+
+.left-align {
+  padding-top: 73px;
+  padding-left: 30px;
+}
+
+.line {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+  margin-top: 31px;
+  margin-bottom: 55px;
+}
+
+.icon-2 {
+  padding-left: 2px;
+}
+
+.circle-1 {
+  width: 240px;
+  height: 240px;
+  left: 376px;
+  top: 53px;
+  background: #a5e4ec;
+  border-radius: 500px;
+  margin-left: 20px;
+}
+
+.img {
+  width: 242px;
+  height: 275px;
+  margin-top: -20px;
+}
+
+.box-4 {
+  width: 645px;
+  height: 347px;
+  background: #fff5e4;
+  border-radius: 20px;
+  /* margin-right: 30px; */
+}
+
+.box-4 button {
+  background-color: #002b5b;
+  padding: 16px 24px;
+  border-radius: 1000px;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  color: #ffffff;
+  font-family: "Poppins";
+}
+
+.circle-2 {
+  width: 240px;
+  height: 240px;
+  left: 376px;
+  top: 53px;
+  background: #ffe7bf;
+  border-radius: 500px;
+  margin-left: 20px;
+}
+
+.circle-3 {
+  width: 6.55px;
+  height: 6px;
+  left: 140px;
+  top: 2368px;
+  background: #110404;
+  border-radius: 1000px;
+}
+
+.circle-4 {
+  width: 16.38px;
+  height: 6px;
+  left: 152.01px;
+  top: 2368px;
+  background: #002b5b;
+  border-radius: 1000px;
+  margin: 0 5.46px;
+}
+
+.circle-5 {
+  width: 1000px;
+  height: 0px;
+  left: 1291px;
+  top: 2371px;
+  border: 2px solid rgba(128, 157, 255, 0.33);
+  transform: rotate(180deg);
+  margin-left: 26.6px;
+}
+
+.circle-6 {
+  box-sizing: border-box;
+  border-radius: 500px;
+  width: 60px;
+  height: 60px;
+  left: 1380px;
+  top: 2341px;
+  margin: 0 20px 0 29px;
+  border: 1px solid #002b5b;
+}
+.circle-6 i {
+  left: 75%;
+  right: -25%;
+  top: 29.17%;
+  bottom: 29.17%;
+  width: 17px;
+  height: 14.17px;
+}
+
+.circle-7 {
+  box-sizing: border-box;
+  border-radius: 500px;
+  width: 60px;
+  height: 60px;
+  left: 1380px;
+  top: 2341px;
+  background-color: #002b5b;
+  border: 1px solid #002b5b;
+  color: #ffffff;
+}
+.circle-7 i {
+  left: 75%;
+  right: -25%;
+  top: 29.17%;
+  bottom: 29.17%;
+  width: 17px;
+  height: 14.17px;
+}
+
+.box-5 {
+  margin: 140px;
+}
+
+.box-6 {
+  padding-bottom: 50px;
+}
+
+.circle-8 {
+  width: 58px;
+  height: 58px;
+  background-color: rgb(128, 149, 173);
+  border-radius: 500px;
+  color: #ffffff;
+}
+
+.circle-9 {
+  width: 68px;
+  height: 68px;
+  background-color: #002b5b;
+  border-radius: 500px;
+  margin-left: 20px;
+  color: #ffffff;
+}
+
+.fa-star {
+  background-color: #f1ab3e;
+}
+
+.line-gap {
+  padding-top: 40px;
+  padding-bottom: 30px;
+}
+
+.img-size {
+  width: 58px;
+  border-radius: 500px;
+  margin-right: 12px;
+}
+
+.box-7 {
+  padding-top: 59px;
+  padding-bottom: 41px;
+}
+
+.text-color {
+  color: #666666;
+}
+
+.box-margin {
+  margin: 0 20px;
+}
+
+.border-box {
+  border-radius: 16px;
+}
